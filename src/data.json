@@ -1,0 +1,2367 @@
+{
+    "Stages": [
+      {
+        "Sid": "12413",
+        "Snm": "Primera Division",
+        "Scd": "primera-division",
+        "Cid": "75",
+        "Cnm": "Argentina",
+        "Csnm": "Argentina",
+        "Ccd": "argentina",
+        "Scu": 0,
+        "Chi": 0,
+        "Shi": 0,
+        "Ccdiso": "ARG",
+        "Sdn": "Primera Division",
+        "Events": [
+          {
+            "Eid": "866049",
+            "Pids": {
+              "1": "4086983",
+              "6": "38545625",
+              "8": "866049",
+              "12": "SBTE_28405665",
+              "32": "2765254"
+            },
+            "Sids": {
+              "1": "881951",
+              "6": "70733",
+              "8": "12413",
+              "12": "SBTC3_59107",
+              "32": "18740"
+            },
+            "Tr1": "1",
+            "Tr2": "1",
+            "Trh1": "1",
+            "Trh2": "1",
+            "Tr1OR": "0",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "Boca Juniors",
+                "ID": "4572",
+                "Img": "enet/10077.png",
+                "Abr": "BOC",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "10077"
+                  ],
+                  "6": [
+                    "3202"
+                  ],
+                  "8": [
+                    "4572"
+                  ],
+                  "12": [
+                    "SBTP_2650"
+                  ],
+                  "15": [
+                    "1625"
+                  ],
+                  "32": [
+                    "157"
+                  ]
+                },
+                "CoNm": "Argentina",
+                "CoId": "ARG",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "Club Atletico Platense",
+                "ID": "6851",
+                "Img": "enet/10089.png",
+                "Abr": "CLU",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "10089"
+                  ],
+                  "6": [
+                    "36837"
+                  ],
+                  "8": [
+                    "6851"
+                  ],
+                  "12": [
+                    "SBTP_303101"
+                  ],
+                  "32": [
+                    "3846"
+                  ]
+                },
+                "CoNm": "Argentina",
+                "CoId": "ARG",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "28'",
+            "Esid": 2,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 4,
+            "ErnInf": "4",
+            "Et": 1,
+            "Esd": 20230219151500,
+            "LuUT": 20230219152546,
+            "Eds": 20230219151647,
+            "Eact": 1,
+            "EO": 1983343,
+            "IncsX": 1,
+            "ComX": 1,
+            "LuX": 1,
+            "StatX": 1,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 1,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12413",
+              "Snm": "Primera Division",
+              "Scd": "primera-division",
+              "Cid": "75",
+              "Cnm": "Argentina",
+              "Csnm": "Argentina",
+              "Ccd": "argentina",
+              "Scu": 0,
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "ARG",
+              "Sdn": "Primera Division"
+            },
+            "Pid": 8
+          }
+        ]
+      },
+      {
+        "Sid": "9061",
+        "Snm": "Club Friendlies",
+        "Scd": "club-friendlies-2022",
+        "Cid": "256",
+        "Cnm": "International",
+        "Csnm": "International",
+        "Ccd": "intl",
+        "Scu": 1,
+        "Sds": "Club Friendlies",
+        "Chi": 0,
+        "Shi": 0,
+        "Ccdiso": "NON",
+        "Sdn": "Club Friendlies",
+        "Events": [
+          {
+            "Eid": "904184",
+            "Pids": {
+              "6": "39375755",
+              "8": "904184"
+            },
+            "Sids": {
+              "1": "882035",
+              "6": "70899",
+              "8": "9061",
+              "12": "SBTC3_92191",
+              "32": "17448"
+            },
+            "Tr1": "2",
+            "Tr2": "0",
+            "Trh1": "1",
+            "Trh2": "0",
+            "Tr1OR": "2",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "LDU de Quito",
+                "ID": "6457",
+                "Img": "enet/6721.png",
+                "Abr": "LDU",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "6721"
+                  ],
+                  "6": [
+                    "5257"
+                  ],
+                  "8": [
+                    "6457"
+                  ],
+                  "12": [
+                    "SBTP_2260"
+                  ],
+                  "15": [
+                    "1584"
+                  ],
+                  "32": [
+                    "2384"
+                  ]
+                },
+                "CoNm": "Ecuador",
+                "CoId": "ECU",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "Deportivo Cuenca",
+                "ID": "7879",
+                "Img": "enet/4144.png",
+                "Abr": "DEP",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "4144"
+                  ],
+                  "6": [
+                    "5251"
+                  ],
+                  "8": [
+                    "7879"
+                  ],
+                  "12": [
+                    "SBTP_3356"
+                  ],
+                  "32": [
+                    "2379"
+                  ]
+                },
+                "CoNm": "Ecuador",
+                "CoId": "ECU",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "85'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Et": 1,
+            "Esd": 20230219140000,
+            "Eds": 20230219140000,
+            "Eact": 1,
+            "EO": 1310983,
+            "IncsX": 0,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 1,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "9061",
+              "Snm": "Club Friendlies",
+              "Scd": "club-friendlies-2022",
+              "Cid": "256",
+              "Cnm": "International",
+              "Csnm": "International",
+              "Ccd": "intl",
+              "Scu": 1,
+              "Sds": "Club Friendlies",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "NON",
+              "Sdn": "Club Friendlies"
+            },
+            "Pid": 8
+          }
+        ]
+      },
+      {
+        "Sid": "12831",
+        "Snm": "Primera Nacional: Group A",
+        "Scd": "primera-nacional-zone-a",
+        "Cid": "75",
+        "Cnm": "Argentina",
+        "Csnm": "Argentina",
+        "Ccd": "argentina",
+        "Scu": 0,
+        "Sds": "Primera Nacional: Group A",
+        "Chi": 0,
+        "Shi": 0,
+        "Ccdiso": "ARG",
+        "Sdn": "Primera Nacional: Group A",
+        "Events": [
+          {
+            "Eid": "878444",
+            "Pids": {
+              "1": "4099141",
+              "6": "38728953",
+              "8": "878444",
+              "12": "SBTE_28423582",
+              "32": "2769097"
+            },
+            "Sids": {
+              "1": "883429",
+              "6": "71341",
+              "8": "12831",
+              "12": "SBTC3_22054",
+              "32": "18920"
+            },
+            "Tr1": "0",
+            "Tr2": "0",
+            "Tr1OR": "0",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "Atletico Guemes",
+                "ID": "5233",
+                "Img": "enet/719912.png",
+                "Abr": "ATL",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "719912"
+                  ],
+                  "6": [
+                    "266889"
+                  ],
+                  "8": [
+                    "5233"
+                  ],
+                  "12": [
+                    "SBTP_355935"
+                  ],
+                  "32": [
+                    "6645"
+                  ]
+                },
+                "CoNm": "Argentina",
+                "CoId": "ARG",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "CA Defensores Unidos",
+                "ID": "5156",
+                "Img": "enet/425967.png",
+                "Abr": "CAD",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "425967"
+                  ],
+                  "6": [
+                    "93515"
+                  ],
+                  "8": [
+                    "5156"
+                  ],
+                  "12": [
+                    "SBTP_119898"
+                  ],
+                  "32": [
+                    "15434"
+                  ]
+                },
+                "CoNm": "Argentina",
+                "CoId": "ARG",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "43'",
+            "Esid": 2,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 3,
+            "ErnInf": "3",
+            "Et": 1,
+            "Esd": 20230219150000,
+            "Eds": 20230219150210,
+            "Eact": 1,
+            "EO": 1573127,
+            "IncsX": 0,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 1,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12831",
+              "Snm": "Primera Nacional: Group A",
+              "Scd": "primera-nacional-zone-a",
+              "Cid": "75",
+              "Cnm": "Argentina",
+              "Csnm": "Argentina",
+              "Ccd": "argentina",
+              "Scu": 0,
+              "Sds": "Primera Nacional: Group A",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "ARG",
+              "Sdn": "Primera Nacional: Group A"
+            },
+            "Pid": 8
+          }
+        ]
+      },
+      {
+        "Sid": "12832",
+        "Snm": "Primera Nacional: Group B",
+        "Scd": "primera-nacional-zone-b",
+        "Cid": "75",
+        "Cnm": "Argentina",
+        "Csnm": "Argentina",
+        "Ccd": "argentina",
+        "Scu": 0,
+        "Sds": "Primera Nacional: Group B",
+        "Chi": 0,
+        "Shi": 0,
+        "Ccdiso": "ARG",
+        "Sdn": "Primera Nacional: Group B",
+        "Events": [
+          {
+            "Eid": "878464",
+            "Pids": {
+              "1": "4099431",
+              "6": "38730393",
+              "8": "878464",
+              "12": "SBTE_28423715",
+              "32": "2769388"
+            },
+            "Sids": {
+              "1": "883430",
+              "6": "71343",
+              "8": "12832",
+              "12": "SBTC3_22054",
+              "32": "18921"
+            },
+            "Tr1": "1",
+            "Tr2": "0",
+            "Trh1": "0",
+            "Trh2": "0",
+            "Tr1OR": "1",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "Club Atletico Mitre",
+                "ID": "6850",
+                "Img": "enet/568714.png",
+                "Abr": "CLU",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "568714"
+                  ],
+                  "6": [
+                    "313625"
+                  ],
+                  "8": [
+                    "6850"
+                  ],
+                  "12": [
+                    "SBTP_329939"
+                  ],
+                  "32": [
+                    "3862"
+                  ]
+                },
+                "CoNm": "Argentina",
+                "CoId": "ARG",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "Deportivo Maipu",
+                "ID": "5249",
+                "Img": "enet/213590.png",
+                "Abr": "DEP",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "213590"
+                  ],
+                  "6": [
+                    "240854"
+                  ],
+                  "8": [
+                    "5249"
+                  ],
+                  "12": [
+                    "SBTP_318624"
+                  ],
+                  "32": [
+                    "3831"
+                  ]
+                },
+                "CoNm": "Argentina",
+                "CoId": "ARG",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "81'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 2,
+            "ErnInf": "2",
+            "Et": 1,
+            "Esd": 20230219140000,
+            "Eds": 20230219140438,
+            "Eact": 1,
+            "EO": 1835279,
+            "IncsX": 1,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 1,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12832",
+              "Snm": "Primera Nacional: Group B",
+              "Scd": "primera-nacional-zone-b",
+              "Cid": "75",
+              "Cnm": "Argentina",
+              "Csnm": "Argentina",
+              "Ccd": "argentina",
+              "Scu": 0,
+              "Sds": "Primera Nacional: Group B",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "ARG",
+              "Sdn": "Primera Nacional: Group B"
+            },
+            "Pid": 8
+          },
+          {
+            "Eid": "878465",
+            "Pids": {
+              "1": "4099432",
+              "6": "38730397",
+              "8": "878465",
+              "12": "SBTE_28421406",
+              "32": "2769389"
+            },
+            "Sids": {
+              "1": "883430",
+              "6": "71343",
+              "8": "12832",
+              "12": "SBTC3_22054",
+              "32": "18921"
+            },
+            "Tr1": "0",
+            "Tr2": "0",
+            "Tr1OR": "0",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "CA Chaco For Ever",
+                "ID": "5237",
+                "Img": "enet/465716.png",
+                "Abr": "CAC",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "465716"
+                  ],
+                  "6": [
+                    "332409"
+                  ],
+                  "8": [
+                    "5237"
+                  ],
+                  "12": [
+                    "SBTP_327193"
+                  ],
+                  "32": [
+                    "3817"
+                  ]
+                },
+                "CoNm": "Argentina",
+                "CoId": "ARG",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "Independiente Rivadavia",
+                "ID": "6841",
+                "Img": "enet/161729.png",
+                "Abr": "IND",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "161729"
+                  ],
+                  "6": [
+                    "36842"
+                  ],
+                  "8": [
+                    "6841"
+                  ],
+                  "12": [
+                    "SBTP_44012"
+                  ],
+                  "32": [
+                    "2165"
+                  ]
+                },
+                "CoNm": "Argentina",
+                "CoId": "ARG",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "43'",
+            "Esid": 2,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 2,
+            "ErnInf": "2",
+            "Et": 1,
+            "Esd": 20230219150000,
+            "Eds": 20230219150214,
+            "Eact": 1,
+            "EO": 1835271,
+            "IncsX": 0,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 1,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12832",
+              "Snm": "Primera Nacional: Group B",
+              "Scd": "primera-nacional-zone-b",
+              "Cid": "75",
+              "Cnm": "Argentina",
+              "Csnm": "Argentina",
+              "Ccd": "argentina",
+              "Scu": 0,
+              "Sds": "Primera Nacional: Group B",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "ARG",
+              "Sdn": "Primera Nacional: Group B"
+            },
+            "Pid": 8
+          }
+        ]
+      },
+      {
+        "Sid": "12493",
+        "Snm": "Paulista A1",
+        "Scd": "paulista-a1",
+        "Cid": "172",
+        "Cnm": "Brazil",
+        "Csnm": "Brazil",
+        "Ccd": "brazil",
+        "Scu": 0,
+        "Sds": "Paulista A1",
+        "Chi": 0,
+        "Shi": 0,
+        "Ccdiso": "BRA",
+        "Sdn": "Paulista A1",
+        "Events": [
+          {
+            "Eid": "849031",
+            "Pids": {
+              "1": "4066435",
+              "6": "37766643",
+              "8": "849031",
+              "12": "SBTE_28430911",
+              "32": "2758297"
+            },
+            "Sids": {
+              "1": "881877",
+              "6": "70771",
+              "8": "12493",
+              "12": "SBTC3_19806",
+              "30": "57996602-e2d3-4453-89b1-de28ae02d67e",
+              "32": "18736"
+            },
+            "Tr1": "2",
+            "Tr2": "0",
+            "Trh1": "2",
+            "Trh2": "0",
+            "Tr1OR": "0",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "Corinthians",
+                "ID": "5031",
+                "Img": "enet/9808.png",
+                "Abr": "COR",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "9808"
+                  ],
+                  "6": [
+                    "1957"
+                  ],
+                  "8": [
+                    "5031"
+                  ],
+                  "12": [
+                    "SBTP_1888"
+                  ],
+                  "15": [
+                    "1922"
+                  ],
+                  "32": [
+                    "178"
+                  ]
+                },
+                "CoNm": "Brazil",
+                "CoId": "BRA",
+                "HasVideo": true
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "Mirassol",
+                "ID": "5034",
+                "Img": "enet/163782.png",
+                "Abr": "MIR",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "163782"
+                  ],
+                  "6": [
+                    "21982"
+                  ],
+                  "8": [
+                    "5034"
+                  ],
+                  "12": [
+                    "SBTP_46345"
+                  ],
+                  "32": [
+                    "6447"
+                  ]
+                },
+                "CoNm": "Brazil",
+                "CoId": "BRA",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "55'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 10,
+            "ErnInf": "10",
+            "Et": 1,
+            "Esd": 20230219143000,
+            "Eds": 20230219142945,
+            "Eact": 1,
+            "EO": 1884431,
+            "IncsX": 1,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 1,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12493",
+              "Snm": "Paulista A1",
+              "Scd": "paulista-a1",
+              "Cid": "172",
+              "Cnm": "Brazil",
+              "Csnm": "Brazil",
+              "Ccd": "brazil",
+              "Scu": 0,
+              "Sds": "Paulista A1",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "BRA",
+              "Sdn": "Paulista A1"
+            },
+            "Pid": 8
+          }
+        ]
+      },
+      {
+        "Sid": "12794",
+        "Snm": "Primera División",
+        "Scd": "primera-division",
+        "Cid": "105",
+        "Cnm": "Chile",
+        "Csnm": "Chile",
+        "Ccd": "chile",
+        "Scu": 0,
+        "Sds": "Primera División",
+        "Chi": 0,
+        "Shi": 0,
+        "Ccdiso": "CHL",
+        "Sdn": "Primera División",
+        "Events": [
+          {
+            "Eid": "868424",
+            "Pids": {
+              "1": "4088680",
+              "6": "38292623",
+              "8": "868424",
+              "12": "SBTE_28405657",
+              "32": "2766761"
+            },
+            "Sids": {
+              "1": "883354",
+              "6": "71279",
+              "8": "12794",
+              "12": "SBTC3_53411",
+              "30": "a93ffc96-0571-410e-94cf-e35b1416868a",
+              "32": "18908"
+            },
+            "Tr1": "0",
+            "Tr2": "0",
+            "Trh1": "0",
+            "Trh2": "0",
+            "Tr1OR": "0",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "O'Higgins",
+                "ID": "7173",
+                "Img": "enet/6296.png",
+                "Abr": "O'H",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "6296"
+                  ],
+                  "6": [
+                    "3163"
+                  ],
+                  "8": [
+                    "7173"
+                  ],
+                  "12": [
+                    "SBTP_8958"
+                  ],
+                  "32": [
+                    "3239"
+                  ]
+                },
+                "CoNm": "Chile",
+                "CoId": "CHL",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "Universidad de Chile",
+                "ID": "4743",
+                "Img": "enet/6310.png",
+                "Abr": "UNI",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "6310"
+                  ],
+                  "6": [
+                    "3161"
+                  ],
+                  "8": [
+                    "4743"
+                  ],
+                  "12": [
+                    "SBTP_2011"
+                  ],
+                  "32": [
+                    "2279"
+                  ]
+                },
+                "CoNm": "Chile",
+                "CoId": "CHL",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "80'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 5,
+            "ErnInf": "5",
+            "Et": 1,
+            "Esd": 20230219140000,
+            "LuUT": 20230219140422,
+            "Eds": 20230219140243,
+            "Eact": 1,
+            "EO": 1983359,
+            "IncsX": 1,
+            "ComX": 1,
+            "LuX": 1,
+            "StatX": 1,
+            "SubsX": 1,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 1,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12794",
+              "Snm": "Primera División",
+              "Scd": "primera-division",
+              "Cid": "105",
+              "Cnm": "Chile",
+              "Csnm": "Chile",
+              "Ccd": "chile",
+              "Scu": 0,
+              "Sds": "Primera División",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "CHL",
+              "Sdn": "Primera División"
+            },
+            "Pid": 8
+          }
+        ]
+      },
+      {
+        "Sid": "12909",
+        "Snm": "Primera A: Apertura",
+        "Scd": "primera-a-apertura",
+        "Cid": "57",
+        "Cnm": "Colombia",
+        "Csnm": "Colombia",
+        "Ccd": "colombia",
+        "Scu": 0,
+        "Sds": "Primera A: Apertura",
+        "Chi": 0,
+        "Shi": 0,
+        "Ccdiso": "COL",
+        "Sdn": "Primera A: Apertura",
+        "Events": [
+          {
+            "Eid": "879484",
+            "Pids": {
+              "1": "4100158",
+              "6": "38638417",
+              "8": "879484",
+              "12": "SBTE_28416660",
+              "32": "2770023"
+            },
+            "Sids": {
+              "1": "883603",
+              "6": "71639",
+              "8": "12909",
+              "12": "SBTC3_33073",
+              "32": "18936"
+            },
+            "Tr1": "0",
+            "Tr2": "1",
+            "Trh1": "0",
+            "Trh2": "1",
+            "Tr1OR": "0",
+            "Tr2OR": "1",
+            "T1": [
+              {
+                "Nm": "La Equidad",
+                "ID": "10101",
+                "Img": "enet/47240.png",
+                "Abr": "LAE",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "47240"
+                  ],
+                  "6": [
+                    "6975"
+                  ],
+                  "8": [
+                    "10101"
+                  ],
+                  "12": [
+                    "SBTP_26200"
+                  ],
+                  "32": [
+                    "2317"
+                  ]
+                },
+                "CoNm": "Colombia",
+                "CoId": "COL",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "Santa Fe",
+                "ID": "8330",
+                "Img": "enet/7818.png",
+                "Abr": "SAN",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "7818"
+                  ],
+                  "6": [
+                    "6116"
+                  ],
+                  "8": [
+                    "8330"
+                  ],
+                  "12": [
+                    "SBTP_18232"
+                  ],
+                  "32": [
+                    "2324"
+                  ]
+                },
+                "CoNm": "Colombia",
+                "CoId": "COL",
+                "HasVideo": true
+              }
+            ],
+            "Eps": "76'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Et": 1,
+            "Esd": 20230219141000,
+            "Eds": 20230219141000,
+            "Eact": 1,
+            "EO": 2016031,
+            "IncsX": 1,
+            "ComX": 1,
+            "LuX": 0,
+            "StatX": 1,
+            "SubsX": 1,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12909",
+              "Snm": "Primera A: Apertura",
+              "Scd": "primera-a-apertura",
+              "Cid": "57",
+              "Cnm": "Colombia",
+              "Csnm": "Colombia",
+              "Ccd": "colombia",
+              "Scu": 0,
+              "Sds": "Primera A: Apertura",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "COL",
+              "Sdn": "Primera A: Apertura"
+            },
+            "Pid": 8
+          }
+        ]
+      },
+      {
+        "Sid": "12910",
+        "Snm": "Primera B: Apertura",
+        "Scd": "primera-b-apertura",
+        "Cid": "57",
+        "Cnm": "Colombia",
+        "Csnm": "Colombia",
+        "Ccd": "colombia",
+        "Scu": 0,
+        "Sds": "Primera B: Apertura",
+        "Chi": 0,
+        "Shi": 0,
+        "Ccdiso": "COL",
+        "Sdn": "Primera B: Apertura",
+        "Events": [
+          {
+            "Eid": "880894",
+            "Pids": {
+              "1": "4101548",
+              "6": "38690377",
+              "8": "880894",
+              "12": "SBTE_28406826",
+              "32": "2771183"
+            },
+            "Sids": {
+              "1": "883604",
+              "6": "71679",
+              "8": "12910",
+              "12": "SBTC3_23854",
+              "32": "18939"
+            },
+            "Tr1": "2",
+            "Tr2": "0",
+            "Trh1": "0",
+            "Trh2": "0",
+            "Tr1OR": "2",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "Boca Juniors de Cali",
+                "ID": "10781",
+                "Img": "enet/193023.png",
+                "Abr": "BOC",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "193023"
+                  ],
+                  "6": [
+                    "89366"
+                  ],
+                  "8": [
+                    "10781"
+                  ],
+                  "12": [
+                    "SBTP_707022"
+                  ],
+                  "32": [
+                    "2303"
+                  ]
+                },
+                "CoNm": "Colombia",
+                "CoId": "COL",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "Real Cartagena",
+                "ID": "9148",
+                "Img": "enet/7731.png",
+                "Abr": "REA",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "7731"
+                  ],
+                  "6": [
+                    "6119"
+                  ],
+                  "8": [
+                    "9148"
+                  ],
+                  "12": [
+                    "SBTP_18234"
+                  ],
+                  "32": [
+                    "2322"
+                  ]
+                },
+                "CoNm": "Colombia",
+                "CoId": "COL",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "88'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 3,
+            "ErnInf": "3",
+            "Et": 1,
+            "Esd": 20230219140000,
+            "Eds": 20230219140023,
+            "Eact": 1,
+            "EO": 1851663,
+            "IncsX": 1,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 1,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12910",
+              "Snm": "Primera B: Apertura",
+              "Scd": "primera-b-apertura",
+              "Cid": "57",
+              "Cnm": "Colombia",
+              "Csnm": "Colombia",
+              "Ccd": "colombia",
+              "Scu": 0,
+              "Sds": "Primera B: Apertura",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "COL",
+              "Sdn": "Primera B: Apertura"
+            },
+            "Pid": 8
+          },
+          {
+            "Eid": "880892",
+            "Pids": {
+              "1": "4101547",
+              "6": "38690383",
+              "8": "880892",
+              "12": "SBTE_28441326",
+              "32": "2771182"
+            },
+            "Sids": {
+              "1": "883604",
+              "6": "71679",
+              "8": "12910",
+              "12": "SBTC3_23854",
+              "32": "18939"
+            },
+            "Tr1": "1",
+            "Tr2": "0",
+            "Trh1": "0",
+            "Trh2": "0",
+            "Tr1OR": "1",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "Cucuta",
+                "ID": "8425",
+                "Img": "enet/6254.png",
+                "Abr": "CUC",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "6254"
+                  ],
+                  "6": [
+                    "6108"
+                  ],
+                  "8": [
+                    "8425"
+                  ],
+                  "12": [
+                    "SBTP_18223"
+                  ],
+                  "32": [
+                    "2304"
+                  ]
+                },
+                "CoNm": "Colombia",
+                "CoId": "COL",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "Tigres FC",
+                "ID": "9357",
+                "Img": "enet/193030.png",
+                "Abr": "TIG",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "193030"
+                  ],
+                  "6": [
+                    "89354"
+                  ],
+                  "8": [
+                    "9357"
+                  ],
+                  "12": [
+                    "SBTP_323685"
+                  ],
+                  "32": [
+                    "2313"
+                  ]
+                },
+                "CoNm": "Colombia",
+                "CoId": "COL",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "83'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 3,
+            "ErnInf": "3",
+            "Et": 1,
+            "Esd": 20230219140000,
+            "Eds": 20230219140151,
+            "Eact": 1,
+            "EO": 1851663,
+            "IncsX": 1,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 1,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12910",
+              "Snm": "Primera B: Apertura",
+              "Scd": "primera-b-apertura",
+              "Cid": "57",
+              "Cnm": "Colombia",
+              "Csnm": "Colombia",
+              "Ccd": "colombia",
+              "Scu": 0,
+              "Sds": "Primera B: Apertura",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "COL",
+              "Sdn": "Primera B: Apertura"
+            },
+            "Pid": 8
+          }
+        ]
+      },
+      {
+        "Sid": "12996",
+        "Snm": "Primera Division: Clausura",
+        "Scd": "primera-division-clausura",
+        "Cid": "69",
+        "Cnm": "El Salvador",
+        "Csnm": "El Salvador",
+        "Ccd": "el-salvador",
+        "Scu": 0,
+        "Sds": "Primera Division: Clausura",
+        "Chi": 0,
+        "Shi": 0,
+        "Ccdiso": "SLV",
+        "Sdn": "Primera Division: Clausura",
+        "Events": [
+          {
+            "Eid": "889575",
+            "Pids": {
+              "1": "4110767",
+              "6": "39042769",
+              "8": "889575",
+              "12": "SBTE_28435504",
+              "32": "2775549"
+            },
+            "Sids": {
+              "1": "883738",
+              "6": "71911",
+              "8": "12996",
+              "12": "SBTC3_53808",
+              "32": "18964"
+            },
+            "Tr1": "0",
+            "Tr2": "2",
+            "Trh1": "0",
+            "Trh2": "1",
+            "Tr1OR": "0",
+            "Tr2OR": "2",
+            "T1": [
+              {
+                "Nm": "CD Dragon",
+                "ID": "225034",
+                "Img": "enet/459605.png",
+                "Abr": "CDD",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "459605"
+                  ],
+                  "6": [
+                    "109319"
+                  ],
+                  "8": [
+                    "225034"
+                  ],
+                  "12": [
+                    "SBTP_200842"
+                  ],
+                  "32": [
+                    "3020"
+                  ]
+                },
+                "CoNm": "El Salvador",
+                "CoId": "SLV",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "CD Platense Municipal",
+                "ID": "181822",
+                "Img": "enet/1280075.png",
+                "Abr": "CDP",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "1280075"
+                  ],
+                  "6": [
+                    "526689"
+                  ],
+                  "8": [
+                    "181822"
+                  ],
+                  "12": [
+                    "SBTP_603536"
+                  ],
+                  "32": [
+                    "24501"
+                  ]
+                },
+                "CoNm": "El Salvador",
+                "CoId": "SLV",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "84'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 6,
+            "ErnInf": "6",
+            "Et": 1,
+            "Esd": 20230219140000,
+            "Eds": 20230219140104,
+            "Eact": 1,
+            "EO": 1835279,
+            "IncsX": 1,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 1,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12996",
+              "Snm": "Primera Division: Clausura",
+              "Scd": "primera-division-clausura",
+              "Cid": "69",
+              "Cnm": "El Salvador",
+              "Csnm": "El Salvador",
+              "Ccd": "el-salvador",
+              "Scu": 0,
+              "Sds": "Primera Division: Clausura",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "SLV",
+              "Sdn": "Primera Division: Clausura"
+            },
+            "Pid": 8
+          },
+          {
+            "Eid": "889581",
+            "Pids": {
+              "1": "4110770",
+              "6": "39042771",
+              "8": "889581",
+              "12": "SBTE_28435507",
+              "32": "2775552"
+            },
+            "Sids": {
+              "1": "883738",
+              "6": "71911",
+              "8": "12996",
+              "12": "SBTC3_53808",
+              "32": "18964"
+            },
+            "Tr1": "1",
+            "Tr2": "1",
+            "Trh1": "0",
+            "Trh2": "1",
+            "Tr1OR": "1",
+            "Tr2OR": "1",
+            "T1": [
+              {
+                "Nm": "CD FAS",
+                "ID": "4704",
+                "Img": "enet/49742.png",
+                "Abr": "CDF",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "49742"
+                  ],
+                  "6": [
+                    "24386"
+                  ],
+                  "8": [
+                    "4704"
+                  ],
+                  "12": [
+                    "SBTP_77437"
+                  ],
+                  "32": [
+                    "3065"
+                  ]
+                },
+                "CoNm": "El Salvador",
+                "CoId": "SLV",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "CD Chalatenango",
+                "ID": "4730",
+                "Img": "enet/49741.png",
+                "Abr": "CDC",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "49741"
+                  ],
+                  "6": [
+                    "24387"
+                  ],
+                  "8": [
+                    "4730"
+                  ],
+                  "12": [
+                    "SBTP_65990"
+                  ],
+                  "32": [
+                    "3064"
+                  ]
+                },
+                "CoNm": "El Salvador",
+                "CoId": "SLV",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "86'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 6,
+            "ErnInf": "6",
+            "Et": 1,
+            "Esd": 20230219140000,
+            "Eds": 20230219140045,
+            "Eact": 1,
+            "EO": 1835279,
+            "IncsX": 1,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 1,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12996",
+              "Snm": "Primera Division: Clausura",
+              "Scd": "primera-division-clausura",
+              "Cid": "69",
+              "Cnm": "El Salvador",
+              "Csnm": "El Salvador",
+              "Ccd": "el-salvador",
+              "Scu": 0,
+              "Sds": "Primera Division: Clausura",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "SLV",
+              "Sdn": "Primera Division: Clausura"
+            },
+            "Pid": 8
+          },
+          {
+            "Eid": "889589",
+            "Pids": {
+              "1": "4110771",
+              "6": "39042775",
+              "8": "889589",
+              "12": "SBTE_28435505",
+              "32": "2775553"
+            },
+            "Sids": {
+              "1": "883738",
+              "6": "71911",
+              "8": "12996",
+              "12": "SBTC3_53808",
+              "32": "18964"
+            },
+            "Tr1": "0",
+            "Tr2": "0",
+            "Trh1": "0",
+            "Trh2": "0",
+            "Tr1OR": "0",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "CD Luis Angel Firpo",
+                "ID": "12113",
+                "Img": "enet/49744.png",
+                "Abr": "FIR",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "49744"
+                  ],
+                  "6": [
+                    "24388"
+                  ],
+                  "8": [
+                    "12113"
+                  ],
+                  "12": [
+                    "SBTP_58794"
+                  ],
+                  "32": [
+                    "7344"
+                  ]
+                },
+                "CoNm": "El Salvador",
+                "CoId": "SLV",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "CD Aguila",
+                "ID": "4731",
+                "Img": "enet/49739.png",
+                "Abr": "CDA",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "49739"
+                  ],
+                  "6": [
+                    "24385"
+                  ],
+                  "8": [
+                    "4731"
+                  ],
+                  "12": [
+                    "SBTP_78508"
+                  ],
+                  "32": [
+                    "3062"
+                  ]
+                },
+                "CoNm": "El Salvador",
+                "CoId": "SLV",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "55'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 6,
+            "ErnInf": "6",
+            "Et": 1,
+            "Esd": 20230219143000,
+            "Eds": 20230219143102,
+            "Eact": 1,
+            "EO": 1835015,
+            "IncsX": 0,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 0,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12996",
+              "Snm": "Primera Division: Clausura",
+              "Scd": "primera-division-clausura",
+              "Cid": "69",
+              "Cnm": "El Salvador",
+              "Csnm": "El Salvador",
+              "Ccd": "el-salvador",
+              "Scu": 0,
+              "Sds": "Primera Division: Clausura",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "SLV",
+              "Sdn": "Primera Division: Clausura"
+            },
+            "Pid": 8
+          },
+          {
+            "Eid": "889578",
+            "Pids": {
+              "1": "4110768",
+              "6": "39042773",
+              "8": "889578",
+              "12": "SBTE_28435503",
+              "32": "2775550"
+            },
+            "Sids": {
+              "1": "883738",
+              "6": "71911",
+              "8": "12996",
+              "12": "SBTC3_53808",
+              "32": "18964"
+            },
+            "Tr1": "2",
+            "Tr2": "2",
+            "Trh1": "2",
+            "Trh2": "1",
+            "Tr1OR": "2",
+            "Tr2OR": "2",
+            "T1": [
+              {
+                "Nm": "Jocoro FC",
+                "ID": "4739",
+                "Img": "enet/948224.png",
+                "Abr": "JOC",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "948224"
+                  ],
+                  "6": [
+                    "460893"
+                  ],
+                  "8": [
+                    "4739"
+                  ],
+                  "12": [
+                    "SBTP_450201"
+                  ],
+                  "32": [
+                    "20308"
+                  ]
+                },
+                "CoNm": "El Salvador",
+                "CoId": "SLV",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "Santa Tecla FC",
+                "ID": "4738",
+                "Img": "enet/322381.png",
+                "Abr": "SAN",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "322381"
+                  ],
+                  "6": [
+                    "74237"
+                  ],
+                  "8": [
+                    "4738"
+                  ],
+                  "12": [
+                    "SBTP_110538"
+                  ],
+                  "32": [
+                    "2936"
+                  ]
+                },
+                "CoNm": "El Salvador",
+                "CoId": "SLV",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "55'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 6,
+            "ErnInf": "6",
+            "Et": 1,
+            "Esd": 20230219143000,
+            "Eds": 20230219143136,
+            "Eact": 1,
+            "EO": 1835023,
+            "IncsX": 1,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 0,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12996",
+              "Snm": "Primera Division: Clausura",
+              "Scd": "primera-division-clausura",
+              "Cid": "69",
+              "Cnm": "El Salvador",
+              "Csnm": "El Salvador",
+              "Ccd": "el-salvador",
+              "Scu": 0,
+              "Sds": "Primera Division: Clausura",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "SLV",
+              "Sdn": "Primera Division: Clausura"
+            },
+            "Pid": 8
+          }
+        ]
+      },
+      {
+        "Sid": "12807",
+        "Snm": "Liga Nacional: Clausura",
+        "Scd": "liga-nacional-clausura",
+        "Cid": "66",
+        "Cnm": "Honduras",
+        "Csnm": "Honduras",
+        "Ccd": "honduras",
+        "Scu": 0,
+        "Sds": "Liga Nacional: Clausura",
+        "Chi": 0,
+        "Shi": 0,
+        "Ccdiso": "HND",
+        "Sdn": "Liga Nacional: Clausura",
+        "Events": [
+          {
+            "Eid": "869250",
+            "Pids": {
+              "1": "4089915",
+              "6": "38393981",
+              "8": "869250",
+              "12": "SBTE_28441253",
+              "32": "2767101"
+            },
+            "Sids": {
+              "1": "883376",
+              "6": "71335",
+              "8": "12807",
+              "12": "SBTC3_94471",
+              "32": "18915"
+            },
+            "Tr1": "2",
+            "Tr2": "2",
+            "Trh1": "1",
+            "Trh2": "1",
+            "Tr1OR": "2",
+            "Tr2OR": "2",
+            "T1": [
+              {
+                "Nm": "Olancho FC",
+                "ID": "225965",
+                "Img": "enet/1384118.png",
+                "Abr": "OLA",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "1384118"
+                  ],
+                  "6": [
+                    "780362"
+                  ],
+                  "8": [
+                    "225965"
+                  ],
+                  "12": [
+                    "SBTP_1151880"
+                  ],
+                  "32": [
+                    "25838"
+                  ]
+                },
+                "CoNm": "Honduras",
+                "CoId": "HND",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "CD Real Sociedad",
+                "ID": "4229",
+                "Img": "enet/343356.png",
+                "Abr": "CDR",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "343356"
+                  ],
+                  "6": [
+                    "76997"
+                  ],
+                  "8": [
+                    "4229"
+                  ],
+                  "12": [
+                    "SBTP_110026"
+                  ],
+                  "32": [
+                    "2946"
+                  ]
+                },
+                "CoNm": "Honduras",
+                "CoId": "HND",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "83'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 8,
+            "ErnInf": "8",
+            "Et": 1,
+            "Esd": 20230219140000,
+            "Eds": 20230219140104,
+            "Eact": 1,
+            "EO": 1835279,
+            "IncsX": 1,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 1,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12807",
+              "Snm": "Liga Nacional: Clausura",
+              "Scd": "liga-nacional-clausura",
+              "Cid": "66",
+              "Cnm": "Honduras",
+              "Csnm": "Honduras",
+              "Ccd": "honduras",
+              "Scu": 0,
+              "Sds": "Liga Nacional: Clausura",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "HND",
+              "Sdn": "Liga Nacional: Clausura"
+            },
+            "Pid": 8
+          },
+          {
+            "Eid": "869246",
+            "Pids": {
+              "1": "4089906",
+              "6": "38393973",
+              "8": "869246",
+              "12": "SBTE_28441254",
+              "32": "2767092"
+            },
+            "Sids": {
+              "1": "883376",
+              "6": "71335",
+              "8": "12807",
+              "12": "SBTC3_94471",
+              "32": "18915"
+            },
+            "Tr1": "1",
+            "Tr2": "1",
+            "Trh1": "1",
+            "Trh2": "1",
+            "Tr1OR": "0",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "CD Marathon",
+                "ID": "3503",
+                "Img": "enet/9932.png",
+                "Abr": "CDM",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "9932"
+                  ],
+                  "6": [
+                    "25355"
+                  ],
+                  "8": [
+                    "3503"
+                  ],
+                  "12": [
+                    "SBTP_57157"
+                  ],
+                  "32": [
+                    "3484"
+                  ]
+                },
+                "CoNm": "Honduras",
+                "CoId": "HND",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "CD Motagua",
+                "ID": "4337",
+                "Img": "enet/49785.png",
+                "Abr": "CDM",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "49785"
+                  ],
+                  "6": [
+                    "22047"
+                  ],
+                  "8": [
+                    "4337"
+                  ],
+                  "12": [
+                    "SBTP_48301"
+                  ],
+                  "32": [
+                    "3074"
+                  ]
+                },
+                "CoNm": "Honduras",
+                "CoId": "HND",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "55'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 8,
+            "ErnInf": "8",
+            "Et": 1,
+            "Esd": 20230219143000,
+            "Eds": 20230219143231,
+            "Eact": 1,
+            "EO": 1835023,
+            "IncsX": 1,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 0,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "12807",
+              "Snm": "Liga Nacional: Clausura",
+              "Scd": "liga-nacional-clausura",
+              "Cid": "66",
+              "Cnm": "Honduras",
+              "Csnm": "Honduras",
+              "Ccd": "honduras",
+              "Scu": 0,
+              "Sds": "Liga Nacional: Clausura",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "HND",
+              "Sdn": "Liga Nacional: Clausura"
+            },
+            "Pid": 8
+          }
+        ]
+      },
+      {
+        "Sid": "13025",
+        "Snm": "Primera División: Apertura",
+        "Scd": "primera-division-apertura",
+        "Cid": "243",
+        "Cnm": "Uruguay",
+        "Csnm": "Uruguay",
+        "Ccd": "uruguay",
+        "Scu": 0,
+        "Sds": "Primera División: Apertura",
+        "Chi": 0,
+        "Shi": 0,
+        "Ccdiso": "URY",
+        "Sdn": "Primera División: Apertura",
+        "Events": [
+          {
+            "Eid": "901152",
+            "Pids": {
+              "1": "4121266",
+              "6": "39295119",
+              "8": "901152",
+              "12": "SBTE_28411450",
+              "32": "2779603"
+            },
+            "Sids": {
+              "1": "883768",
+              "6": "71915",
+              "8": "13025",
+              "12": "SBTC3_33339",
+              "32": "18970"
+            },
+            "Tr1": "0",
+            "Tr2": "0",
+            "Trh1": "0",
+            "Trh2": "0",
+            "Tr1OR": "0",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "Defensor Sporting",
+                "ID": "7672",
+                "Img": "enet/7796.png",
+                "Abr": "DEF",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "7796"
+                  ],
+                  "6": [
+                    "3229"
+                  ],
+                  "8": [
+                    "7672"
+                  ],
+                  "12": [
+                    "SBTP_4534"
+                  ],
+                  "32": [
+                    "1908"
+                  ]
+                },
+                "CoNm": "Uruguay",
+                "CoId": "URY",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "La Luz",
+                "ID": "200964",
+                "Img": "enet/1319664.png",
+                "Abr": "LAL",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "1319664"
+                  ],
+                  "6": [
+                    "603998"
+                  ],
+                  "8": [
+                    "200964"
+                  ],
+                  "12": [
+                    "SBTP_869900"
+                  ],
+                  "32": [
+                    "25382"
+                  ]
+                },
+                "CoNm": "Uruguay",
+                "CoId": "URY",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "81'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Et": 1,
+            "Esd": 20230219140000,
+            "LuUT": 20230219141454,
+            "Eds": 20230219140000,
+            "Eact": 1,
+            "EO": 1851775,
+            "IncsX": 1,
+            "ComX": 0,
+            "LuX": 1,
+            "StatX": 1,
+            "SubsX": 1,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 1,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "13025",
+              "Snm": "Primera División: Apertura",
+              "Scd": "primera-division-apertura",
+              "Cid": "243",
+              "Cnm": "Uruguay",
+              "Csnm": "Uruguay",
+              "Ccd": "uruguay",
+              "Scu": 0,
+              "Sds": "Primera División: Apertura",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "URY",
+              "Sdn": "Primera División: Apertura"
+            },
+            "Pid": 8
+          }
+        ]
+      },
+      {
+        "Sid": "13087",
+        "Snm": "Primera División",
+        "Scd": "primera-division",
+        "Cid": "104",
+        "Cnm": "Venezuela",
+        "Csnm": "Venezuela",
+        "Ccd": "venezuela",
+        "Scu": 0,
+        "Sds": "Primera División",
+        "Chi": 0,
+        "Shi": 0,
+        "Ccdiso": "VEN",
+        "Sdn": "Primera División",
+        "Events": [
+          {
+            "Eid": "894590",
+            "Pids": {
+              "1": "4116078",
+              "6": "39191079",
+              "8": "894590",
+              "12": "SBTE_28437187",
+              "32": "2777768"
+            },
+            "Sids": {
+              "1": "883821",
+              "6": "72025",
+              "8": "13087",
+              "12": "SBTC3_43552",
+              "32": "18979"
+            },
+            "Tr1": "0",
+            "Tr2": "0",
+            "Trh1": "0",
+            "Trh2": "0",
+            "Tr1OR": "0",
+            "Tr2OR": "0",
+            "T1": [
+              {
+                "Nm": "Mineros De Guayana",
+                "ID": "6603",
+                "Img": "enet/49684.png",
+                "Abr": "MIN",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "49684"
+                  ],
+                  "6": [
+                    "6232"
+                  ],
+                  "8": [
+                    "6603"
+                  ],
+                  "12": [
+                    "SBTP_18205"
+                  ],
+                  "32": [
+                    "1931"
+                  ]
+                },
+                "CoNm": "Venezuela",
+                "CoId": "VEN",
+                "HasVideo": false
+              }
+            ],
+            "T2": [
+              {
+                "Nm": "Portuguesa FC",
+                "ID": "9682",
+                "Img": "enet/49682.png",
+                "Abr": "POR",
+                "tbd": 0,
+                "Gd": 1,
+                "Pids": {
+                  "1": [
+                    "49682"
+                  ],
+                  "6": [
+                    "6234"
+                  ],
+                  "8": [
+                    "9682"
+                  ],
+                  "12": [
+                    "SBTP_18207"
+                  ],
+                  "32": [
+                    "1932"
+                  ]
+                },
+                "CoNm": "Venezuela",
+                "CoId": "VEN",
+                "HasVideo": false
+              }
+            ],
+            "Eps": "74'",
+            "Esid": 3,
+            "Epr": 1,
+            "Ecov": 0,
+            "Ern": 3,
+            "ErnInf": "3",
+            "Et": 1,
+            "Esd": 20230219141500,
+            "Eds": 20230219141424,
+            "Eact": 1,
+            "EO": 1851655,
+            "IncsX": 0,
+            "ComX": 0,
+            "LuX": 0,
+            "StatX": 1,
+            "SubsX": 0,
+            "SDFowX": 0,
+            "SDInnX": 0,
+            "LuC": 0,
+            "Ehid": 0,
+            "Spid": 1,
+            "Stg": {
+              "Sid": "13087",
+              "Snm": "Primera División",
+              "Scd": "primera-division",
+              "Cid": "104",
+              "Cnm": "Venezuela",
+              "Csnm": "Venezuela",
+              "Ccd": "venezuela",
+              "Scu": 0,
+              "Sds": "Primera División",
+              "Chi": 0,
+              "Shi": 0,
+              "Ccdiso": "VEN",
+              "Sdn": "Primera División"
+            },
+            "Pid": 8
+          }
+        ]
+      }
+    ]
+  }
